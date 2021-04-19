@@ -17,7 +17,7 @@ function Header() {
         <h1>
           Lily Kong
         </h1>
-        <h3>full stack software engineer</h3>
+        <h3>Full Stack Software Engineer</h3>
         <h3>LOCATION: San Francisco, CA</h3>
       </div>
     </div>
