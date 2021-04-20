@@ -31,6 +31,10 @@
   width: 100px;
 }
 
+.Bar-Items:hover {
+  font-weight: bold;
+}
+
 .Profile {
   display: flex;
   flex-direction: row;

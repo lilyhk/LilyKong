@@ -7,7 +7,7 @@ function Header() {
     <div className="Bar">
       <div className="Bar-Items" id="about">About</div>
       <div className="Bar-Items" id="experience">Experience</div>
-      <div className="Bar-Items" id="work">Work</div>
+      <div className="Bar-Items" id="work">Projects</div>
       <div className="Bar-Items" id="contact">Contact</div>
       <div className="Bar-Items" id="resume">Resume</div>
     </div>
