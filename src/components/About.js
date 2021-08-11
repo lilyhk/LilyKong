@@ -4,7 +4,7 @@ function About() {
   return (
     <div>
       <p>
-      My name is Lily and I am a software engineer based in San Francisco, CA. I am proficient in Javascript and have experience working with RESTful APIs, Nodejs, Reactjs, etc. I am currently working for Galvanize as a Software Engineering Immersive Resident providing technical guidance to current students working towards their own goals of becoming successful engineers.
+      My name is Lily and I am a software engineer based in San Francisco, CA. I am proficient in Javascript and have experience working with RESTful APIs, Nodejs, Reactjs, etc. I most recently worked for Galvanize as a Software Engineering Immersive Resident providing technical guidance to current students working towards their own goals of becoming successful engineers.
       </p>
       <p>
       Before becoming a software engineer, I worked in corporate retail for a few well known Bay Area retailers, most recently Gap Inc., managing sales plans for departments upwards of $150m in retail sales. I have experience working cross-functionally with merchants, marketing, and production teams to develop buy-strategies and promo plans, and pitching these plans to directors and VPs on a weekly basis. My work had its own exciting challenges but I knew I wanted to tackle something new and different. I also know that my skills gained over the years, both soft and analytical, will not go to waste.
