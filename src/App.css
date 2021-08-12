@@ -8,13 +8,13 @@
   background-image: url("Wallpaper.jpg");
   background-position: center;
   background-size: cover;
+  height: 450px;
 }
 
 .Bar {
   display:flex;
   flex-direction: row;
   flex-wrap: wrap;
-
 }
 
 .Bar-Items {
@@ -28,6 +28,7 @@
 .Bar-Items:hover {
   font-weight: bold;
   cursor: pointer;
+  color: rgb(84, 84, 84);
 }
 
 .Profile {
@@ -64,6 +65,10 @@
   margin: 2px;
   padding: 20px;
   opacity: 50%;
+}
+
+.fa {
+  color:rgb(29, 29, 29)
 }
 
 .Link-Items:hover {
