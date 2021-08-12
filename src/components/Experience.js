@@ -4,7 +4,7 @@ function Experience() {
   return (
     <div>
       <p>
-      Software Engineering Immersive Resident  |  Galvanize Inc – San Francisco, CA	 	      2021-Present
+      Software Engineering Immersive Resident  |  Galvanize Inc – San Francisco, CA	 	      01/2021-04/2021
       </p>
       <p>
       Inventory Planner |  Old Navy (Gap.Inc) – San Francisco, CA		      		          2018-2020

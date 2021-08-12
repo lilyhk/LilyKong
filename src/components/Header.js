@@ -1,4 +1,5 @@
 import '../App.css';
+import Links from './Links.js';
 import photo from '../IMG_4986.jpg';
 
 function Header() {
@@ -19,6 +20,7 @@ function Header() {
         </h1>
         <h3 className="Info"  id="title">Full Stack Software Engineer</h3>
         <h3 className="Info"  id="location">LOCATION: San Francisco, CA</h3>
+        <Links/>
       </div>
     </div>
     </div>

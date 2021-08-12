@@ -51,8 +51,24 @@
   justify-content: center;
   left: 20px;
   top: 20px;
-  padding-left: 20%;
+  padding-left: 10%;
   padding-right: 10%;
+}
+
+.Links {
+  display: flex;
+  flex-direction: row;
+}
+
+.Link-Items {
+  margin: 2px;
+  padding: 20px;
+  opacity: 50%;
+}
+
+.Link-Items:hover {
+  opacity: 100%;
+  cursor: pointer;
 }
 
 p {
