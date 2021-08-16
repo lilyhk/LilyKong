@@ -1,7 +1,8 @@
 import '../App.css';
 import About from './About.js';
 import Experience from './Experience.js';
-import Projects from './Projects.js'
+import Projects from './Projects.js';
+import Other from './Other.js';
 
 function Body() {
   return (
@@ -9,6 +10,7 @@ function Body() {
       <About/>
       <Experience/>
       <Projects/>
+      <Other/>
     </div>
   );
 }
