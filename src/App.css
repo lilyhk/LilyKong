@@ -61,10 +61,19 @@
 }
 
 .Profile_photo {
+  display: flex;
+  flex-direction: column;
   border-radius: 5px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   margin-top: 60px;
   margin-left: 20px;
+  width: 280px;
+  height: 380px;
+  background-image: linear-gradient(135deg, grey, darkslategrey);
+}
+
+.videoButton {
+  z-index: 99;
 }
 
 .Basic-Info {
