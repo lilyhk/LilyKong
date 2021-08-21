@@ -1,4 +1,4 @@
-import '../App.css';
+import '../../App.css';
 import Bar from './Bar.js';
 import Profile from './Profile.js';
 

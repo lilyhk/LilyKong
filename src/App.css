@@ -9,7 +9,11 @@
   background-image: url("Wallpaper.jpg");
   background-position: center;
   background-size: cover;
-  height: 450px;
+  height: 500px;
+}
+
+.body {
+  margin-left: 20px;
 }
 
 .Bar {
@@ -124,3 +128,28 @@ p {
   box-sizing: border-box;
 }
 
+.selectorBar {
+  margin-left: 20px;
+  display: flex;
+  flex-direction: row;
+}
+.icon {
+  height: 50px;
+  width: 40px;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-top: 20px;
+  margin-right: 20px;
+  opacity: 70%;
+  background-image: linear-gradient(135deg, grey, darkslategrey);
+}
+
+.icon:hover {
+  opacity: 100%;
+  cursor: pointer;
+}
+
+.imagesContainer {
+  display: flex;
+  flex-direction: column;
+}
